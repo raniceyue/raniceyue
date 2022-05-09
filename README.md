@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is ✨ _Ranice_ ✨ and I am working as a junior frontend developer at [BandLab](bandlab.com)
+
+🌱 I’m currently learning Svelte and Godot
+
+📫 How to reach me: `ranice [at] ranice [dot] net`
+
+😄 Pronouns: `she/her`
+
+⚡ Fun fact: I can bench press more than I can squat 
+
 <!--
 **raniceyue/raniceyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
