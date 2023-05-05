@@ -1,26 +1,18 @@
-### Hi there 👋
-
-My name is ✨ _Ranice_ ✨ and I am working as a junior frontend developer at [BandLab](bandlab.com)
-
-🌱 I’m currently learning Svelte, Godot and German 🇩🇪
-
-📫 How to reach me: `ranice [at] ranice [dot] net`
-
-😄 Pronouns: `she/her`
-
-⚡ Fun fact: If I could eat only 1 thing for the rest of my life it would be nasi lemak
-
-<!--
-**raniceyue/raniceyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                                
+                                   .,,**,.                                      
+                                   %&&&&&%                                      
+                                  ..*/(## .                                     
+                      #&(****************//////////(%(*                  ....   
+                    ,********************/////////(##%%%,           .*//#%%     
+     **/(##%%%%%%%%(*********/////////(((((((######%%%%&&(         **/#%.       
+    (%&           *********/////////(((((((((######%%%%&&&#       **/#&         
+    (%&*         ********///////////((((((((#######%%%%%&&&%     **/#%          
+    .#%%(       */*****/////// R A N I C E  'S ####%%%%%&&&%(***,*/#%/          
+      ##%%*    ./////////////// T E A P O T #####%%%%%%&&&&&///(#%%*           
+        .%##(( (///////////////((((((((((########%%%%%%&&&&&&%%%%%%             
+            (%##(//////////(((((((((((########%%%%%%%%&&&&&&%&&&*               
+                #(((((((((((((((((##########%%%%%%%&&&&&&&&&&                   
+                 /%%###############%%%%%%%%%%%&&&&&&&&&&&&&.                    
+                    #&&&&%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&*                       
+                      .%%&&&&&&&&&&&&&&&&&&&&&&&&&&&&%                          
+                              *(#&&&&&&&&&&&#/,    
